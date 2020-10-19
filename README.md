@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is [Rishabh Taparia](https://github.com/rt1301) 👋
 
 <!--
 **rt1301/rt1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an Engineering Student at NIT Trichy
+<br>
+I work as an full stack Web Developer, proficient in MERN stack.
+<br>
+My areas of interests are Web Development, Game Development and 3D Modelling
+<br>
+<div>
+  <p>My Profile Overview: </p>
+</div>
+[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rt1301&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
