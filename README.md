@@ -23,4 +23,4 @@ My areas of interests are Web Development, Game Development and 3D Modelling
 <div>
   <p>My Profile Overview: </p>
 </div>
-[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rt1301&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rt1301&show_icons=true&count_private=true&theme=radical)
